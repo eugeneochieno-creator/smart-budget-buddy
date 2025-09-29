@@ -16,11 +16,22 @@ Smart Budget Buddy teaches teens how to **budget, save, and avoid money traps** 
 
 ---
 
-## 🖼️ Screenshots  
-- Agent Builder with Instructions + Guardrails.  
-- Guardrail in “Ready” status.  
-- Successful conversation.  
-- Edge cases (PII + unsafe request).  
+## 🖼️ Screenshots
+
+### Agent Builder
+![Agent Builder Screenshot](screenshots/agent-builder.png)
+
+### Guardrail Ready
+![Guardrail Screenshot](screenshots/guardrail-ready.png)
+
+### Successful Conversation
+![Conversation Screenshot](screenshots/successful.png)
+
+### PII Detection
+![PII Screenshot](screenshots/pii.png)
+
+### Unsafe Request Blocked
+![Unsafe Request Screenshot](screenshots/unsafe.png)
 
 ---
 
@@ -33,15 +44,15 @@ Smart Budget Buddy teaches teens how to **budget, save, and avoid money traps** 
 ---
 
 ## 🔍 Reflection
-What worked well:  
+**What worked well:**  
 - The agent explained budgeting in a simple, relatable way for teens.  
 - Guardrails effectively blocked unsafe or private requests.  
 
-What I would improve:  
+**What I would improve:**  
 - Add interactive tools like savings calculators.  
 - Gamify the learning experience for more engagement.  
 
-Responsible AI design:  
+**Responsible AI design:**  
 - Enforced safety with Guardrails + PII detection.  
 - Avoided unsafe financial topics.  
 - Delivered fair, transparent, and inclusive advice.  
